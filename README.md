@@ -1,6 +1,6 @@
 # PDF Link - Universal File to PDF Converter
 
-A beautiful, modern web application that converts any file type to professional PDF format while preserving the original formatting and structure, Open 
+A beautiful, modern web application that converts any file type to professional PDF format while preserving the original formatting and structure, Open Sour
 
 ## ✨ Features
 
